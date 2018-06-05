@@ -13,6 +13,11 @@
 이 애니메이션은 has exit time을 체크해제하여 클릭을 받을때마다  
 바로바로 새로운 애니메이션을 실행하여 유저가 클릭을 많이 할 수록  
 많이 했다는 느낌을 받을 수 있다.  
+![screenshot_3](https://user-images.githubusercontent.com/38284288/40977199-3811c4e8-690b-11e8-81df-b8eea399449b.png)  
+**screenshot 3 goldperclick업그레이드**  
+왼편에 있는 버튼들을 클릭하면 적혀있는 gold만큼 내 gold에서 차감한 다음    
+버튼에 써있는 수치대로 goldperclick을 업그레이드 할 수 있다.  
+
 
 
 
