@@ -17,7 +17,10 @@
 **screenshot 3 goldperclick업그레이드**  
 왼편에 있는 버튼들을 클릭하면 적혀있는 gold만큼 내 gold에서 차감한 다음    
 버튼에 써있는 수치대로 goldperclick을 업그레이드 할 수 있다.  
-
+![screenshot_4](https://user-images.githubusercontent.com/38284288/40977280-7495d2ec-690b-11e8-8566-28615299c59f.png)  
+**screenshot 4 goldpersec업그레이드**  
+오른편에 있는 버튼들을 클릭하면 적혀있는 gold만큼 내 gold에서 차감한 다음  
+버튼에 써있는 수치대로 goldpersec를 업그레이드 할 수 있다.  
 
 
 
