@@ -7,4 +7,12 @@
 화면 가운데에는 goldperclick과 goldpersec를 실시간으로 업데이트 해주는  
 알림판이 있고 가운데에는 3d모델을 사용한 클릭할 수 있는 모델이 있다.  
 이 모델을 클릭하면 goldperclick에 적혀있는 수치만큼 gold가 오르게 된다.  
+![screenshot_2](https://user-images.githubusercontent.com/38284288/40977007-b7bf53f0-690a-11e8-874c-83d1b9bc1582.png)  
+**screenshot 2 모델 클릭시**  
+모델을 클릭하면 클릭 애니메이션이 실행되는 것을 확인할 수 있다.  
+이 애니메이션은 has exit time을 체크해제하여 클릭을 받을때마다  
+바로바로 새로운 애니메이션을 실행하여 유저가 클릭을 많이 할 수록  
+많이 했다는 느낌을 받을 수 있다.  
+
+
 
